@@ -6,7 +6,7 @@
 # In[1]:
 
 
-guests = ["narayan hari", "pruthvi chhowala", "vishal jadav"]
+guests = ["erica", "maxwell", "chris"]
 
 
 # In[2]:
